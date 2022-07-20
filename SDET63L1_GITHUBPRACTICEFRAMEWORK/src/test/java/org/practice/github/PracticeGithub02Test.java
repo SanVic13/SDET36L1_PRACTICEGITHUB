@@ -16,5 +16,6 @@ public class PracticeGithub02Test {
 	}
 	public void practiceGithub03() {
 		System.out.println("hi");
+		System.out.println("hello");
 	}
 }
