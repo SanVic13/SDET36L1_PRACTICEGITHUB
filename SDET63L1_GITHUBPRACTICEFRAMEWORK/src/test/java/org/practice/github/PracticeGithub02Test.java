@@ -9,4 +9,12 @@ public class PracticeGithub02Test {
 	public void practiceGithub01() {
 		Reporter.log("practiceGithub01", true);
 	}
+	
+	@Test
+	public void practiceGithub02() {
+		Reporter.log("practiceGithub02", true);
+	}
+	public void practiceGithub03() {
+		System.out.println("hi");
+	}
 }
